@@ -1,2 +1,2 @@
 # engDados
-Repositório para o projeto de Engenharia de Daods da NTT Data
+Repositório para o projeto de Engenharia de Dados da NTT Data
